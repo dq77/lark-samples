@@ -1,13 +1,15 @@
-# Larksuite code sample
+# 回声机器人
 
-## Overview
-This is used to open Feishu code samples to help developers quickly use Feishu capabilities. The project contains the following code samples:
-- [Quickly develop a bot](robot_quick_start/python/README.md)
-- [Quickly develop a web app](web_app_with_jssdk/python/README.md)
-- [Quickly create a login-free web app](web_app_with_auth/python/README.md)
-- [React+nodejs quickly implements web applications and free web applications](js_web_app/README.md)
-- Echo bot [go](echo_robot/go/README.md) [python](echo_robot/python/README.md) [java](echo_robot/java/README.md) [nodejs](echo_robot/nodejs/README.md)
-- Interactive bot [go](interactive_bot/go/README.md) [python](interactive_bot/python/README.md) [java](interactive_bot/java/README.md) [nodejs](interactive_bot/nodejs/README.md)
+开发文档：https://open.feishu.cn/document/uAjLw4CM/uMzNwEjLzcDMx4yM3ATM/develop-an-echo-bot/introduction
 
-## License
-- Apache 2.0
+## 说明
+
+
+- 用户输入纯文本消息，机器人回复：收到你发送的消息：XXXX。
+
+
+## 启动项目
+
+```
+npm run dev
+```
